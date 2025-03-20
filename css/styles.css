@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
-
+.customcss1 {color:aliceblue; text-decoration-line: underline}
 body {
 	font-family: "Times New Roman", "Times New Roman Bold", "Times New Roman Bold Italic", "Times New Roman Italic";	
 	color: #FFFFFF;
@@ -50,4 +50,16 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.dutch-bg {
+    background-color: #93B598;
+}
+.english-bg {
+    background-color: #93B598;
+}
+.german-bg {
+    background-color: #93B598;
+}.w-75 {
+}
+.cus {
 }
